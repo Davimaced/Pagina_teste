@@ -1,5 +1,5 @@
-### NO botão atividades ira abrir 3 opções onde terá jumper, spinnig e funcional  
+#NO botão atividades ira abrir 3 opções onde terá jumper, spinnig e funcional  
 
-### o botão pesquisar nao pesquisa .
+### o botão pesquisar tera que pesquisar sobre o tópico .
 
-####  o botão desativado não consegue clicar.
+####  o formulario deveria enviar para o email.
